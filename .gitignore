@@ -2,4 +2,4 @@
 venv
 .vscode
 *.pyc
-GESTAO_RH/__pycache__/
+Gestao_RH/__pycache__/
