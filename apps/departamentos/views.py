@@ -5,6 +5,7 @@ from django.views.generic import (
     DeleteView,
     CreateView
 )
+
 from .models import Departamento
 
 
